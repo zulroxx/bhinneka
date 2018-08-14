@@ -7,7 +7,7 @@ Jelaskan fitur secara rinci, tidak tertele-tele.
 
 __Contoh :__
 * ___#Fitur_PayDay___
-    *   Sesuai dengan definisinya (Payday: the day on which you receive pay for your work).\
+    *   Sesuai dengan definisinya (Payday: the day on which you receive pay for your work).
     *   Selesai bekerja, payday/gaji bisa diambil di tempat kerja/di bank(Jika sudah ada ATM) sesuai dengan ketentuan Direktur perusahaan.
-    *   Payday bisa diambil di hari kemudian setelah payday ke 2 dst.\
+    *   Payday bisa diambil di hari kemudian setelah payday ke 2 dst.
     *   Payday tidak ada potongan apapun.
